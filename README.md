@@ -1,5 +1,19 @@
 # Password Strength Validator UI (Bootstrap based)
 
+[![GitHub Version](https://img.shields.io/github/release/gaomingcode/jquery-password.svg)](https://github.com/gaomingcode/jquery-password)
+[![Packagist Downloads](https://img.shields.io/packagist/dm/gaomingcode/jquery.password)](https://github.com/gaomingcode/jquery-password)
+[![Github License](https://img.shields.io/github/license/gaomingcode/jquery-password)](https://github.com/gaomingcode/jquery-password)
+
+## Installation
+
+### Composer
+
+```
+composer require gaomingcode/jquery.password
+```
+
+## ReadMe from Origin
+
 [Check the Demo](https://codepen.io/nat-davydova/pen/yLyXogO)
 
 <img src="http://natali-davydova.me/assets/img/password-strength/sample.png" width="550" />
