@@ -1,22 +1,22 @@
 {
-    "name": "gaomingcode/jquery.password",
-    "description": "The jQuery Form Plugin allows you to easily and unobtrusively upgrade HTML passwords to use AJAX.",
+    "name": "gaomingcode/jquery.passStrength",
+    "description": "The jQuery Form Plugin allows you to easily and unobtrusively upgrade HTML passStrength to use AJAX.",
     "type": "library",
     "license": [
         "MIT"
     ],
     "keywords": [
-        "jquery", "jquery-plugin", "html-password", "password", "jquery-password"
+        "jquery", "jquery-plugin", "html-passStrength", "passStrength", "jquery-passStrength"
     ],
-    "homepage": "https://github.com/nat-davydova/password-strength",
+    "homepage": "https://github.com/gaomingcode/passStrength",
     "minimum-stability": "stable",
     "prefer-stable": true,
     "authors": [
         {
-            "name": "Natalia Davydova"
+            "name": "GAO MING"
         }
     ],
     "support": {
-        "issues": "https://github.com/nat-davydova/password-strength/issues"
+        "issues": "https://github.com/gaomingcode/passStrength/issues"
     }
 }
